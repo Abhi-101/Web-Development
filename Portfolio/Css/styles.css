@@ -101,8 +101,9 @@ h3{
     font-size: 3rem;
 }
 .myimage{
-    width: 15%;
+    width: 10%;
     margin: 1%;
+    border-radius: 10%;
 }
 .web-dev{
     margin: 1% auto 1% auto;
@@ -113,7 +114,7 @@ h3{
 .projects{
     font-size: 2rem;
     font-weight: 600;
-    margin: 2% auto 2% auto;
+    margin: 1% auto 1% auto;
 }
 
 .my_skills{
