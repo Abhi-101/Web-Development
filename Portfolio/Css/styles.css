@@ -1,0 +1,153 @@
+/******* ElEMENT TAGS *********/
+body{
+    background-color: #3468C0;
+    text-align: center;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    font-size: 2rem;
+    font-family: "Sacramento", cursive;
+    margin: -10px auto 0 auto;
+}
+
+p{
+    margin: 0;
+    font-family: "Montserrat", sans-serif;
+}
+
+h2{
+    margin: 0;
+    font-size: 1rem;
+    font-family: "Montserrat", sans-serif;
+    font-weight: normal;
+    ;
+}
+
+hr{
+    border: none;
+    border-top: 5px dotted yellow;
+    background-color: transparent;
+    font-family: "Montserrat", sans-serif;
+    width: 10%;
+}
+h3{
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.5rem;
+}
+/****** CLASS TAGS ******/
+.Introduction{
+    background-color: #FF9843;
+    position: relative;
+}
+
+.Middle_Container{
+    background-color: #FFDD95;
+    padding: 10px;
+    font-weight: 500;
+}
+.Last_Container{
+    background-color:#86A7FC;
+}
+
+.sun{
+    position: absolute;
+    left: 45%;
+    width: 12%;
+    top: 20px;
+}
+
+.top-cloud{
+    position: relative;
+    top: 30px;
+    width: 17%;
+    left: 0;
+}
+
+.mountain{
+    position: relative;
+    left: 0%;
+    top: 3.5px;
+}
+
+.bottom-cloud-1{
+    position: absolute;
+    width: 30%;
+    left:0;
+    bottom: 0px;
+}
+.bottom-cloud-2{
+    position: absolute;
+    width: 30%;
+    bottom: 0px;
+    right: 0;
+}
+
+.bottom-cloud-3{
+    position: absolute;
+    width: 20%;
+    bottom: 0px;
+    left: 20%;
+}
+.bottom-cloud-4{
+    position: absolute;
+    width: 20%;
+    bottom: 0px;
+    right: 15%;
+}
+
+.skills-heading{
+    padding: 10px;
+    font-size: 3rem;
+}
+.myimage{
+    width: 15%;
+    margin: 1%;
+}
+.web-dev{
+    margin: 1% auto 1% auto;
+    width: 15%;
+    border-radius: 10%;
+}
+
+.projects{
+    font-size: 2rem;
+    font-weight: 600;
+    margin: 2% auto 2% auto;
+}
+
+.my_skills{
+    line-height: 1;
+}
+
+.machine-learning-gif{
+    width: 15%;
+    border-radius: 10%;
+    margin: 1% auto auto auto
+}
+
+.web-dev-desc{
+    margin: auto auto 2% auto;
+}
+
+.machine-learning-disc{
+    margin: 1% auto 1% auto;
+}
+
+.contact-me{
+    margin: 2% auto auto auto;
+}
+
+.Get-in-touch{
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+
+.Interesting-facts{
+    margin: 0.5% auto auto auto;
+}
+/************ ID TAGS **********/
+#intro_2_container{
+    font-size: 2rem;
+    font-weight: 500;
+}
